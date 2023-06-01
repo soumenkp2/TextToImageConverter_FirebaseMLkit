@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "187870878502",
+    "firebase_url": "https://valid-bill-default-rtdb.firebaseio.com",
+    "project_id": "valid-bill",
+    "storage_bucket": "valid-bill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187870878502:android:ac959ad1a954ab85e1ffe7",
+        "android_client_info": {
+          "package_name": "com.example.billcashback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGj9z8PiBI4sOe8UFMugeEViDTaZNNJMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187870878502:android:9a8f3e2673a201d2e1ffe7",
+        "android_client_info": {
+          "package_name": "com.example.doda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGj9z8PiBI4sOe8UFMugeEViDTaZNNJMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187870878502:android:2da6d54737664cdbe1ffe7",
+        "android_client_info": {
+          "package_name": "com.example.textconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGj9z8PiBI4sOe8UFMugeEViDTaZNNJMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187870878502-1e3e0u6bssva7bet66sfs1qbn2a5o4gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
